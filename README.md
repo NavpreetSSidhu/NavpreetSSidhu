@@ -128,11 +128,11 @@
 
 <br/>
 
-## 🏆 ACHIEVEMENTS
+## 📈 SCORE HISTORY
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NavpreetSSidhu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NavpreetSSidhu&bg_color=120458&color=22D3EE&line=FF2E88&point=FFD700&area=true&area_color=A855F7&title_color=FFD700&hide_border=true&custom_title=Contribution%20Score%20History" alt="Contribution activity graph" />
 
 </div>
 
