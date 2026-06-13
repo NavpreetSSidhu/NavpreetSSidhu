@@ -1,7 +1,7 @@
 <!--
   ╔═══════════════════════════════════════════════════════════════╗
   ║  NAVPREET SINGH SIDHU — GitHub Profile README                   ║
-  ║  Arcade/retro theme · matches navpreetcodes.com                 ║
+  ║  Arcade/retro theme · matches navsidhu.co.in                 ║
   ║  Tip: swap any widget palette via the &theme= query param.      ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- ░░░ TYPING HEADER ░░░ -->
-<a href="https://navpreetcodes.com">
+<a href="http://navsidhu.co.in/">
   <img
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=70&lines=I+build+AI+agents.;I+build+SaaS+platforms.;I+build+CRM+systems.;I+build+GenAI+products.;I+build+things+people+use."
     alt="I build AI agents · SaaS platforms · GenAI products"
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/▶_PRESS_START-navpreetcodes.com-FFD700?style=for-the-badge&labelColor=120458)](https://navpreetcodes.com)
+[![Portfolio](https://img.shields.io/badge/▶_PRESS_START-navsidhu.co.in-FFD700?style=for-the-badge&labelColor=120458)](http://navsidhu.co.in/)
 
 </div>
 
@@ -156,7 +156,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-navpreetcodes.com-FFD700?style=for-the-badge&logo=vercel&logoColor=white&labelColor=120458)](https://navpreetcodes.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-navsidhu.co.in-FFD700?style=for-the-badge&logo=vercel&logoColor=white&labelColor=120458)](http://navsidhu.co.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120458)](https://www.linkedin.com/in/navpreet-singh-53081a1b3/)
 [![X](https://img.shields.io/badge/X-@Nappapro4248-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=120458)](https://x.com/Nappapro4248)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=120458)](mailto:navpreetsinghsidhu3@gmail.com)
