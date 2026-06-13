@@ -12,7 +12,7 @@
 <a href="http://navsidhu.co.in/">
   <img
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=70&lines=I+build+AI+agents.;I+build+SaaS+platforms.;I+build+CRM+systems.;I+build+GenAI+products.;I+build+things+people+use."
-    alt="I build AI agents · SaaS platforms · GenAI products"
+    alt="I build AI agents · SaaS Platforms · GenAI products"
   />
 </a>
 
